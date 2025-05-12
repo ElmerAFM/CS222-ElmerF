@@ -1,0 +1,14 @@
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/bin/Debug/net9.0/Exercise2-2
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/bin/Debug/net9.0/Exercise2-2.deps.json
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/bin/Debug/net9.0/Exercise2-2.runtimeconfig.json
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/bin/Debug/net9.0/Exercise2-2.dll
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/bin/Debug/net9.0/Exercise2-2.pdb
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/obj/Debug/net9.0/Exercise2-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/obj/Debug/net9.0/Exercise2-2.AssemblyInfoInputs.cache
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/obj/Debug/net9.0/Exercise2-2.AssemblyInfo.cs
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/obj/Debug/net9.0/Exercise2-2.csproj.CoreCompileInputs.cache
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/obj/Debug/net9.0/Exercise2-2.dll
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/obj/Debug/net9.0/refint/Exercise2-2.dll
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/obj/Debug/net9.0/Exercise2-2.pdb
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/obj/Debug/net9.0/Exercise2-2.genruntimeconfig.cache
+/home/elmerf/codestuff/CS222 ElmerF/Exercise2-2/obj/Debug/net9.0/ref/Exercise2-2.dll
